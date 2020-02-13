@@ -1,0 +1,7 @@
+com\velotn\Test\Test.class
+com\velotn\Entite\Competition.class
+com\velotn\Service\ServiceCompetition.class
+com\velotn\IService\IService.class
+com\velotn\Entite\Sortie.class
+com\velotn\Service\ServiceSortie.class
+com\velotn\Utils\DataBase.class
